@@ -42,7 +42,7 @@ current_ops = "Developing native tools, dissecting protocols & studying security
   <samp><b>[ TELEMETRY ]</b></samp>
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=efeartn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C&text_color=C9D1D9&custom_title=SYSTEM%20METRICS" alt="GitHub Stats" height="145" />
-  <img src="https://streak-stats.demolab.com/?user=efeartn&hide_border=true&background=0D1117&ring=B91C1C&fire=DC2626&currStreakLabel=B91C1C&sideLabels=6E7681&currStreakNum=E5E7EB&sideNums=C9D1D9&dates=484F58" alt="GitHub Streak" height="145" />
+  <img src="https://ghstats.dev/api/card?username=efeartn&theme=midnight_sakura&hide_title=true&border_radius=50" alt="GitHub Stats Card" />
 </div>
 
 <br />
