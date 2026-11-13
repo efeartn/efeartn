@@ -3,49 +3,43 @@
   <samp>
     <h2>E F E &nbsp; A R T U N</h2>
   </samp>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1200&color=B91C1C&center=true&vCenter=true&width=540&height=28&lines=CYBERSECURITY+%E2%80%A2+SYSTEMS+ENGINEERING+%E2%80%A2+CS;LINUX+ENVIRONMENT+%2F%2F+OPEN-SOURCE+TOOLING;ANALYZING+SYSTEMS.+BUILDING+IN+THE+DARK." alt="Terminal Subheader" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=1400&color=B91C1C&center=true&vCenter=true&width=520&height=28&lines=systems+engineering+%2F%2F+network+tooling;cross-platform+desktop+%26+cli+utilities;protocol+analysis+%2F%2F+security+internals" alt="Focus areas" />
 </div>
 
 <br />
 
 ```toml
-# // SYS.TELEMETRY — NODE: GOTHAM-01
-[identity]
-handle      = "efeartn"
-focus       = ["Cybersecurity", "Systems Architecture", "AI & Backend Workflows"]
-methodology = "Offensive mindset, defensive engineering, minimal attack surface"
-
-[environment]
-os          = "GNU/Linux"
-workflow    = "Terminal-first // Open-Source // Low-overhead"
-current_ops = "Developing native tools, dissecting protocols & studying security internals"
+# 0x01 // profile.toml
+[core]
+handle = "efeartn"
+focus  = ["Systems Engineering", "Cybersecurity", "Automation"]
+work   = "Cross-platform utilities, DNS & protocol analysis, lightweight CLI tools"
 ```
 
 <br />
 
 <div align="center">
-  <samp><b>[ ARSENAL &amp; ENVIRONMENT ]</b></samp>
-  <br /><br />
-  <img src="https://img.shields.io/badge/C++-121212?style=flat-square&logo=cplusplus&logoColor=B91C1C" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=B91C1C" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-121212?style=flat-square&logo=gnubash&logoColor=B91C1C" alt="Bash" />
-  <img src="https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=B91C1C" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Linux-121212?style=flat-square&logo=linux&logoColor=E5E7EB" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=E5E7EB" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=E5E7EB" alt="Docker" />
-  <img src="https://img.shields.io/badge/Wireshark-121212?style=flat-square&logo=wireshark&logoColor=E5E7EB" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=B91C1C" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=B91C1C" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=B91C1C" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=B91C1C" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=B91C1C" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=8B949E" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=8B949E" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=8B949E" alt="Docker" />
+  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=8B949E" alt="Wireshark" />
 </div>
 
 <br />
 
 <div align="center">
-  <samp><b>[ TELEMETRY ]</b></samp>
-  <br /><br />
-  <img src="https://ghstats.dev/api/card?username=efeartn&theme=midnight_sakura&hide_title=true&border_radius=50" alt="GitHub Stats Card" />
+  <img src="https://streak-stats.demolab.com/?user=efeartn&hide_border=true&background=0D1117&stroke=21262D&ring=B91C1C&fire=DC2626&currStreakLabel=B91C1C&sideLabels=6E7681&currStreakNum=E5E7EB&sideNums=C9D1D9&dates=484F58" alt="GitHub Streak" height="145" />
+  <br />
+  <img src="https://raw.githubusercontent.com/efeartn/efeartn/output/activity-graph.svg" alt="Commit Activity Graph" width="760" />
 </div>
 
 <br />
 
 <div align="center">
-  <sub><samp>[ STATUS: MONITORING ] // Quiet builds. Hardened systems.</samp></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=3200&pause=2200&color=6E7681&center=true&vCenter=true&width=320&height=24&lines=%2F%2F+gotham.local;%2F%2F+github.com%2Fefeartn" alt="gotham.local" />
 </div>
