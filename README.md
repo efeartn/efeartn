@@ -9,7 +9,7 @@
 <br />
 
 ```toml
-# 0x01 // profile.toml
+# // profile.toml
 [core]
 handle = "efeartn"
 focus  = ["Systems Engineering", "Cybersecurity", "Automation"]
@@ -19,11 +19,13 @@ work   = "Cross-platform utilities, DNS & protocol analysis, lightweight CLI too
 <br />
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=B91C1C" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=B91C1C" alt="Go" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=B91C1C" alt="Python" />
   <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=B91C1C" alt="C++" />
   <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=B91C1C" alt="Bash" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=B91C1C" alt="JavaScript" />
+  <br />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=8B949E" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=8B949E" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=8B949E" alt="Docker" />
